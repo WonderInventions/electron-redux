@@ -3,9 +3,6 @@ node_modules
 coverage
 
 dist
-lib
-es
-types
 *.log
 e2e_dist
 .DS_Store
